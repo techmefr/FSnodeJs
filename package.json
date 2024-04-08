@@ -4,7 +4,8 @@
   "description": "a test to manage files in nodeJs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seed.js"
   },
   "repository": {
     "type": "git",
@@ -16,9 +17,12 @@
     "FileSystem"
   ],
   "author": "Gaetan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/techmefr/FSnodeJs/issues"
   },
-  "homepage": "https://github.com/techmefr/FSnodeJs#readme"
+  "homepage": "https://github.com/techmefr/FSnodeJs#readme",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
 }
