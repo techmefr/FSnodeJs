@@ -1,0 +1,24 @@
+{
+  "name": "fsnodejs",
+  "version": "1.0.0",
+  "description": "a test to manage files in nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/techmefr/FSnodeJs.git"
+  },
+  "keywords": [
+    "FS",
+    "NodeJs",
+    "FileSystem"
+  ],
+  "author": "Gaetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techmefr/FSnodeJs/issues"
+  },
+  "homepage": "https://github.com/techmefr/FSnodeJs#readme"
+}
