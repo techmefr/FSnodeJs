@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/techmefr/FSnodeJs#readme",
   "dependencies": {
-    "faker": "^6.6.6"
+    "faker": "^5.5.3"
   }
 }
